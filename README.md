@@ -1,4 +1,4 @@
-<h1 align="center"> Titulo </h1>
+<h1 align="center"> 👋 Oi, eu sou o Lucas, </h1>
 
 - 👋 Oi, eu sou o Lucas,
 - 💻 Eu sou um desenvolvedor Fullstack;
