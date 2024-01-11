@@ -28,6 +28,8 @@
 )
 ![Postgresql](https://img.shields.io/badge/postgresql-Code?style=for-the-badge&logo=postgresql&logoColor=black&color=white
 )
+![Beekeeper](https://img.shields.io/badge/beekeeper-Code?style=for-the-badge&logo=beekeeper&logoColor=yellow&color=black
+)
 
 ### Eu estou estudando... 🧩
 
