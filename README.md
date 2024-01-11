@@ -24,6 +24,8 @@
 )
 ![PyCharm](https://img.shields.io/badge/pycharm-Code?style=for-the-badge&logo=pycharm&logoColor=white&color=black
 )
+![Postgres](https://img.shields.io/badge/postgres-Code?style=for-the-badge&logo=postgres&logoColor=white&color=black
+)
 
 ### Eu estou estudando... 🧩
 
