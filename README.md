@@ -24,7 +24,7 @@
 )
 ![PyCharm](https://img.shields.io/badge/pycharm-Code?style=for-the-badge&logo=pycharm&logoColor=white&color=black
 )
-![SQL](https://img.shields.io/badge/sql-Code?style=for-the-badge&logo=sql&logoColor=yellow&color=black
+![SQL](https://img.shields.io/badge/SQL-Code?style=for-the-badge&logo=SQL&logoColor=yellow&color=black
 )
 ![Postgresql](https://img.shields.io/badge/postgresql-Code?style=for-the-badge&logo=postgresql&logoColor=black&color=white
 )
