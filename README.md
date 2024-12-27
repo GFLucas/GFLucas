@@ -22,11 +22,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/python-Code?style=for-the-badge&logo=python&logoColor=black&color=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 )
 ![PyCharm](https://img.shields.io/badge/pycharm-Code?style=for-the-badge&logo=pycharm&logoColor=white&color=black
 )
-![SQL](https://img.shields.io/badge/SQL-Code?style=for-the-badge&logo=MYSQL&logoColor=yellow&color=black
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 )
 ![Postgresql](https://img.shields.io/badge/postgresql-Code?style=for-the-badge&logo=postgresql&logoColor=black&color=white
 )
@@ -35,12 +35,12 @@
 
 ### Eu estou estudando... 🧩
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![nestjs](https://img.shields.io/badge/NestJS-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=red)
-![nestjs](https://img.shields.io/badge/NextJS-%2320232a.svg?style=for-the-badge&logo=next&logoColor=white)
+![nextjs](https://img.shields.io/badge/NextJS-%2320232a.svg?style=for-the-badge&logo=next&logoColor=white)
 ![prismaorm](https://img.shields.io/badge/prismaorm-%2320232a.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
 
