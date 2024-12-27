@@ -41,7 +41,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![nestjs](https://img.shields.io/badge/NestJS-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=red)
 ![nestjs](https://img.shields.io/badge/NextJS-%2320232a.svg?style=for-the-badge&logo=next&logoColor=white)
-![nestjs](https://img.shields.io/badge/NextJS-%2320232a.svg?style=for-the-badge&logo=prismaorm&logoColor=white)
+![nestjs](https://img.shields.io/badge/NextJS-%2320232a.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
